@@ -20,7 +20,7 @@
 
 ## Introduction
 - Dart is a programming language developed by Google.
-- It is similar to JavaScript and Java in how it looks and works.
+- It is similar to **JavaScript** and **Java** in how it looks and works.
 - Flutter uses Dart for creating Native Applications.
 - When you're coding your program, Dart uses the JIT compiler.
 - When you want everybody to use your program, Dart uses the AOT compiler.
