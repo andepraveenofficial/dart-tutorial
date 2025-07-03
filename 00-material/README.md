@@ -67,6 +67,23 @@
 - Create dart file with `.dart` extension.
 - Ex : `index.dart`
 - Run dart file : `dart index.dart`
+
+### Notes
+- Dart is similar to **JavaScript** in syntax,
+- Dart uses static typing like **Java**.
+
+```dart
+if (condition) {
+  // Do something
+}
+```
+
+```dart
+int age = 25;
+String name = "Praveen";
+bool isValid = true;
+```
+
 </details>
 
 ---
